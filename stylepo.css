@@ -1,0 +1,557 @@
+div {
+	border: ;
+	background-color: hsl(0, 55%, 71.3%);
+}
+
+body {
+	background-color: hsl(0, 55%, 71.3%);
+}
+
+li {
+	color: white;
+	font-family: Avenir, Open Sans, sans-serif;
+
+}
+
+a {
+	color: white;
+	font-family: Avenir, Open Sans, sans-serif;
+	padding: 0%;
+}
+
+a:hover {
+	color: white;
+	font-family: Avenir, Open Sans, sans-serif;
+	font-weight: bolder;
+}
+
+header {
+	background-color: salmon;
+	text-align: right;
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	padding-right: 3%;
+}
+.navbar {
+	background-color: salmon;
+	
+}
+
+.navbar navbar-expand-md bg-dark navbar-dark {
+    background-color: salmon;
+	position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+
+}
+
+h1 {
+	font-family: 'Avenir', 'Open Sans', sans-serif;
+	font-weight: lighter;
+	font-size: 350%;
+	color: white;
+}
+
+h2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 415%;
+	color: white;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	font-size: 1.2rem;
+	text-align: center;
+	color: white;
+
+}
+
+h4 {
+	font-family: 'Avenir', 'Open Sans', sans-serif;
+	font-weight: lighter;
+	font-size: 2rem;
+	padding-top: ;
+	color: white;
+
+}
+
+p {
+	font-family: 'Avenir', 'Open Sans', sans-serif;
+	font-weight: lighter;
+	color: white;
+	font-size: 110%;
+
+}
+
+#pinfo {
+	padding-left: 5%;
+}
+
+.informatie {
+	align-items: center;
+	align-content: center;
+	
+}
+
+.informatie2 {
+	margin-left: 5%;
+}
+
+
+
+
+/* "h3" voor projectpagina */
+.h3forinfo {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	font-size: 110%;
+	text-align: left;
+	color: white;
+
+}
+
+/* process icon */
+#process {
+	padding-top: 15%;
+}
+
+/* "h3" voor 'aandelen" in projectpagina */
+.h3forinfo2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	font-size: 110%;
+	padding-top: 2%;
+	padding-left: 5%;
+	color: white;
+	text-align: left;
+
+}
+
+/* "h4" voor "aandelen" in projectpagina */
+.h4foraandelen {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-size: 110%;
+	color: white;
+
+}
+
+
+
+
+/* buttons for navbar */
+.btn-pink {
+	font-family: 'Avenir', 'Open Sans', sans-serif;
+	font-weight: lighter;
+	color: white;
+	background-color: salmon;
+	border-color: salmon;
+	font-size: 1rem;
+	margin: 3%;
+
+
+}
+
+.btn-pink:hover {
+	background-color: #ff9999;
+	border-color: #ff9999;
+	color: white;
+	border-radius: 90deg;
+}
+
+
+/* buttons for "klick here" */
+.btn-white {
+	font-family: 'Avenir', 'Open Sans', sans-serif;
+	background-color: salmon;
+	color: white;
+	font-size: 1rem;
+	margin: 0;
+
+
+}
+
+/* collapse button */
+.btn-white2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+	background-color: #FF9999;
+	color: white;
+	font-size: 1.9rem;
+	border-bottom-color: white;
+	margin-bottom: 3%;
+
+}
+
+
+.btn-white:hover {
+	background-color: hsl(0, 55%, 71.3%);
+	border-color: white;
+	color: white;
+}
+
+/* paddings van div van text "welcome to my pf" en andere pagina's */
+.begin {
+	padding-top: 10%;
+	padding-bottom: ;
+}
+
+
+.intro-project {
+	padding-top: ;
+	padding-left: 10%;
+}
+
+
+
+.intro-project2 {
+	
+	padding-right: 5%;
+
+}
+
+.video1 {
+	padding-left: %;
+
+}
+
+.begin2 {
+	padding-top: 30%;
+	padding-bottom: 20%;
+}
+
+.begon {
+	padding-top: 10%;
+	margin-left: 5%;
+	padding-bottom: ;
+}
+
+
+.fotografie {
+	padding-top: 20%;
+
+}
+
+/* paddings van div van text "welcome to my pf" voor mobile */
+
+
+/* text: 'portfolio' (h1) voor mobile*/
+.sm1 {
+	font-size: 150%
+}
+
+/* "welcome to my" (h2) voor mobile */
+.sm2 {
+	font-size: 120%
+}
+
+#smallogo {
+	margin-right: 80%;
+}
+
+
+/* container */
+.port {
+	padding-right: 0%;
+	padding-left: 0%;
+	margin-right: 0%;
+	margin-left: 0%;
+
+}
+
+
+
+.nav {
+	color: salmon;
+}
+
+/* hamburger menu */
+.bg-dark {
+	background-color: salmon !important;
+}
+
+
+
+.navbar-dark .navbar-toggler {
+	color: salmon;
+	 !important;
+	border-color: salmon;
+}
+
+.navbar-toggler:hover {
+	background-color: salmon;
+}
+
+
+.navbar-toggler {
+	padding: .25rem .75rem;
+	font-size: 1.25rem;
+	line-height: 1;
+	background-color: salmon;
+	border: 200px;
+	border-color: black;
+	border-radius: .25rem;
+}
+
+.nav-link {
+	font-family: 'Avenir';
+	font-weight: 100;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: ;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+	background-color: salmon;
+}
+
+.dropdown-menu {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 1000;
+	display: none;
+	float: left;
+	min-width: 10rem;
+	padding: 0.5rem 0;
+	margin: 0.125rem 0 0;
+	font-size: 1rem;
+	color: #212529;
+	text-align: left;
+	list-style: none;
+	background-color: salmon;
+	background-clip: padding-box;
+	padding: 5%;
+	border-radius: 0.25rem;
+}
+
+.dropdown,
+.dropleft,
+.dropright,
+.dropup {
+	position: relative;
+	background-color: salmon;
+}
+
+#logo {
+	margin-right: 30%;
+
+}
+
+/* second is class van rosen van "welcomr" sectie, eerste plaatje */
+.first {
+	margin-top: 10%;
+}
+
+.first2 {
+	margin-top: 3%;
+}
+
+/* second is class van rosen van "school" sectie */
+.second {
+	margin-top: 10%;
+}
+
+/* mirror van roses van "school" sectie */
+.roses {
+	transform: scaleX(-1);
+
+}
+
+.school {
+	background-color: hsl(0, 55%, 71.3%);
+}
+
+.school1 {
+	background-color: hsl(0, 55%, 71.3%);
+}
+
+
+.project {
+	background-color: hsl(0, 55%, 71.3%);
+	padding-top: 5%;
+	
+}
+
+.project:hover {
+	background-color: hsl(0, 55%, 71.3%);
+	background-image: url(images/circle.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: 100%;
+	transition: all 1s;
+	transition-duration: 1s; 
+
+}
+
+
+
+.rotate {
+	-moz-transition: all .5s linear;
+	-webkit-transition: all .5s linear;
+	transition: all .5s linear;
+}
+
+.rotate.down {
+	-moz-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+footer {
+	text-align: center;
+	background-color: salmon;
+	margin-top: 5%;
+	width: 100%;
+	background-size: 100%;
+	padding-bottom: 3%;
+}
+
+
+
+/* icon play op koffieproject pagina */
+#play {
+	padding-top: 3%;
+	padding-bottom: 2%;
+}
+
+/* divs vann anastasia en cherena in koffie project pagina */
+.aandeel {
+	border: 3px solid white;
+	border-radius: 10%;
+	padding-left: 4%;
+
+}
+
+/* div van knoppen in proces in koffie project pagina */
+.process {
+	padding-left: 4%;
+
+}
+
+/* div met text over keuzes in koffie project pagina */
+.textforkeuze {
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+/* fotografie pagina */
+
+.column {
+	float: left;
+	width: 25%;
+	padding: 10px;
+	padding-left: 5%;
+
+}
+
+/* Style the images inside the grid */
+.column img {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+.column img:hover {
+	opacity: 1;
+}
+
+/* Clear floats after the columns */
+.foto:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* The expanding image container (positioning is needed to position the close button and the text) */
+.container {
+	position: relative;
+	display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+	color: white;
+	font-size: 20px;
+	float: left;
+
+}
+
+#expandedImg {
+	padding-top: 10%;
+}
+
+
+/* Closable button inside the image */
+.closebtn {
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	color: white;
+	font-size: 35px;
+	cursor: pointer;
+}
+
+.foto {
+	padding-top: %;
+
+}
+
+#me {
+	padding-top: 25%;
+}
+
+/*photography page */
+#me2 {
+	padding-top: 15%;
+	padding-right: %;
+}
+
+.aboutmetext {
+	text-align: left;
+	padding-left: 10%;
+	padding-right: 5%;
+}
+
+.aboutmebegin {
+	padding-top: 10%;
+	padding-left: 10%;
+	padding-right: 5%;
+}
+
+.collapsi {
+	padding-top: 3%;
+}
+
+.collapse {
+	padding: 0;
+}
+
+
+
+
+/* Hide Play button + controls on iOS */
+video::-webkit-media-controls {
+	display: none !important;
+}
+
+
+.row {
+	align-items: center;
+	align-content: center;
+}
